@@ -1,5 +1,0 @@
-source('/ess/p697/cluster/users/parekh/2023-10-24_KUHR/scripts/makeParticipantList.R', echo=TRUE)
-source('/ess/p697/cluster/users/parekh/2023-10-24_KUHR/scripts/mergeKUHR.R', echo=TRUE)
-source('/ess/p697/cluster/users/parekh/2023-10-24_KUHR/scripts/linkKUHR.R', echo=TRUE)
-source('/ess/p697/cluster/users/parekh/2023-10-24_KUHR/scripts/parseKUHR.R', echo=TRUE)
-source('/ess/p697/cluster/users/parekh/2023-10-24_KUHR/scripts/doCounts.R', echo=TRUE)
